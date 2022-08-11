@@ -2798,7 +2798,7 @@ GameObject:
   - component: {fileID: 8547337786774136282}
   - component: {fileID: 8148286142850627716}
   m_Layer: 0
-  m_Name: MDLSource_Rive
+  m_Name: PFB_Rive
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
