@@ -463,6 +463,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ReleaseAnimationsLocations
       objectReference: {fileID: 0}
+    - target: {fileID: 7085071750542141432, guid: 110a1ab6f88ce9d418874b7ced65bc58,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7085071750542141435, guid: 110a1ab6f88ce9d418874b7ced65bc58,
         type: 3}
       propertyPath: m_RootOrder
@@ -797,14 +802,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3415175090396653088}
-  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalRotation: {x: -0, y: 0.99926907, z: -0.03822729, w: 0}
   m_LocalPosition: {x: 0.44503874, y: -5.329858, z: -0.7204685}
   m_LocalScale: {x: 2.5659463, y: 2.5659463, z: 2.5659463}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 859657529}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 4.382, y: 180, z: 0}
 --- !u!33 &219331831877838569
 MeshFilter:
   m_ObjectHideFlags: 0
