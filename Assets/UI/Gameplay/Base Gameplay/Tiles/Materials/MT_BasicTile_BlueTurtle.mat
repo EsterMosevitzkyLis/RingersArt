@@ -22,7 +22,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - MatchedSymbolTex:
-        m_Texture: {fileID: 2800000, guid: 9486fa7ec4ace514982868862482a5ed, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_12E6CB60:
